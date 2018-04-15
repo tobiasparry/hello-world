@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+First repository.
+
+Windows and Iphone application development.
